@@ -39,3 +39,11 @@ let b = '100';
 console.log(typeof b);
 let c = false;
 console.log(typeof c);
+
+//exercise 'prompt'
+let name = prompt('enter your name:')
+console.log(name);
+let lastname = prompt('enter your lastname:')
+console.log(lastname);
+let age = prompt('enter your age:')
+console.log(age);
